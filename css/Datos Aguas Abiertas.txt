@@ -1,0 +1,14 @@
+Nombre: Francisco Javier Campos Díaz
+Fecha de nacimiento: 28 de marzo del 1994
+Edad cumplida al 31/12/16: 21
+Distancia que nada: 2.5k
+# cédula: 50970891
+# teléfono: 63319336
+Correo electrónico: fcamposd@ucenfotec.ac.cr
+Talla camisa: L
+Lateralidad : Derecho
+Grupo sanguíneo: O-
+Nombre beneficiario o contacto  emergencia: Luz Mery Díaz Granadoz
+# cédula beneficiario: 501130838
+Parentesco beneficiario: Madre
+# teléfono beneficiario: 84987039
